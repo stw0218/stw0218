@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Taewoong Seo! 👋
 
-<!--
-**stw0218/stw0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- I'm studying computer science at Myongji Univ.
+- Blog: [Tistory](https://stw0218.tistory.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/>
+
+### 📊 GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stw0218&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stw0218&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+### 🏆 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stw0218)](https://solved.ac/stw0218)
+<br/>
+
+### 📫 How to Reach Me
+- **Email**: stw0218@naver.com
+
+<br/>
