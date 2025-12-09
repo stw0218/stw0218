@@ -15,7 +15,7 @@ I'm currently learning **Backend Development** and fundamental **Computer Scienc
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Familiar with
+### Experience
 
 - **Web Development** <br/>
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -40,7 +40,7 @@ I'm currently learning **Backend Development** and fundamental **Computer Scienc
 
 - **Embedded Systems** <br/>
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-  ![PLC](https://img.shields.io/badge/PLC-0066CC?style=flat-square&logo=siemens&logoColor=white)
+  ![PLC](https://img.shields.io/badge/PLC-E60012?style=flat-square&logo=mitsubishi&logoColor=white)
 
 ### Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
