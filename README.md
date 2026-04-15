@@ -1,39 +1,43 @@
-# Hi there, I'm Taewoong Seo! 👋
+### 👋 Introduction
 
 I'm currently learning **Semiconductor Manufacturing Process** and **Wireless Communication**.
 
-- 🎓 **Education:** Dept. of Computer Science at Myongji Univ.
-- 📝 **Blog:** [Tistory](https://stw0218.tistory.com)
-- 📧 **Contact:** stw0218@naver.com
+- 🎓 Dept. of Computer Science at Myongji Univ. (2024 ~ )
+- 📝 Blog: [Tistory](https://stw0218.tistory.com)
+- 📧 Email: stw0218@naver.com
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-### Main Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### Web Development
+FastAPI · Flask · React · Svelte · Vite  
 
-### Experience
+#### Desktop Development
+MFC · Win32 API  
 
-- **Web Development** <br/>
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+#### Embedded Systems
+Arduino · PLC (LS XG5000, Mitsubishi GX Works2)
+
+---
+
+### 🚀 Projects
+- **LED Matrix Game Machine** (2019.03 ~ 2019.11)
+  - Cimon HMI 및 LS PLC 사용해서 게임 선택
+  - PLC 24V를 5V 레귤레이터(7805)를 통해 변압하여 Arduino로 신호 전달
+  - Arduino를 사용하여 LED Matrix의 화면 출력
+  - 구현 게임: Pacman, Mario, Omok, Tetris 등
   
-- **Desktop Development** <br/>
-  ![MFC](https://img.shields.io/badge/MFC-0078D6?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=flat-square&logo=windows&logoColor=white)
+- **Wafer Clean Process Equipment Control System** (2020 ~ 2022)
+  - Sensor Communication and PID control - Serial(RS232, RS485), Socket(TCP/IP)
+  - Servo Motor, Step Motor Control
+  - Windows GUI app (MFC)
 
-- **Embedded Systems** <br/>
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-  ![PLC](https://img.shields.io/badge/PLC-E60012?style=flat-square&logo=mitsubishi&logoColor=white)
+- **Daily Fortune-Telling Web Site ([My Destina](https://github.com/Gingerdonor/Team_Project1_team4))** (2025.10 ~ 2025.12)
+  - Web Framework : FastAPI (Backend) and React + Vite (Frontend)
+  - DB : PostgreSQL (via Python ORM)
 
-### Tools
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
+---
+
+### 🔧 Tools
+Windows · Ubuntu · Git
