@@ -1,14 +1,14 @@
-### 👋 Introduction
+### Introduction
 
 I'm currently learning **Semiconductor Manufacturing Process** and **Wireless Communication**.
 
-- 🎓 Dept. of Computer Science at Myongji Univ. (2024 ~ )
-- 📝 Blog: [Tistory](https://stw0218.tistory.com)
-- 📧 Email: stw0218@naver.com
+- Dept. of Computer Science at Myongji Univ. (2024 ~ )
+- Blog: [Tistory](https://stw0218.tistory.com)
+- Email: stw0218@naver.com
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Web Development
 FastAPI · Flask · React · Svelte · Vite
@@ -21,7 +21,7 @@ Arduino · ESP32 · PLC (LS XG5000, Mitsubishi GX Works2)
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - **LED Matrix Game Machine** (2019.03 ~ 2019.11)
   - High school graduation project (majored in Electrical & Electronic Engineering, team of 5)
